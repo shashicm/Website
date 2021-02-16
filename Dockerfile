@@ -1,4 +1,4 @@
-ROM hshar/webapp
+RUM hshar/webapp
 
 ADD . /var/www/html
 
